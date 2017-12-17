@@ -1,0 +1,8 @@
+computer vision
+detection
+neural network
+image processing
+big data
+convolutional neural network
+recurrent neural network
+tensorflow
